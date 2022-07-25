@@ -5,21 +5,25 @@ creating conda environment
 '''
 conda create -p venv python==3.7 -y
 ''''
-activating conda environment 
+
+Activating conda environment 
 '''
 conda activate venv/
 '''
-installing requirements 
+
+Installing requirements 
 
 '''
 pip install -r requirements.txt
 '''
+
 To add file in git
 '''
 git add .
 or 
 git add filename
 '''
+
 To create version/commit
 
 '''
