@@ -35,3 +35,10 @@ To push data in git
 '''
 git push origin main
 '''
+
+To established CI/CD pipeline
+
+'''
+HEROKU_EMAIL=alokdwivedifgiet@gmail.com
+HEROKU_API_KEY=66cd5971-e19e-4c6f-aab7-9da02f650f72
+hEROKU_APPLICATION_NAME=my-app-project1
