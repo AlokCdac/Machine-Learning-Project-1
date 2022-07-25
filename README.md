@@ -14,3 +14,20 @@ installing requirements
 '''
 pip install -r requirements.txt
 '''
+To add file in git
+'''
+git add .
+or 
+git add filename
+'''
+To create version/commit
+
+'''
+git commit -m "message"
+'''
+
+To push data in git
+
+'''
+git push origin main
+'''
