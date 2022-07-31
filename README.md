@@ -40,8 +40,10 @@ To established CI/CD pipeline
 
 '''
 HEROKU_EMAIL=alokdwivedifgiet@gmail.com
+
 HEROKU_API_KEY=<>
-hEROKU_APPLICATION_NAME=my-app-project1
+
+HEROKU_APP_NAME=my-app-project1
 
 
 
