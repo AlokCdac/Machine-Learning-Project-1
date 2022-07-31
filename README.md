@@ -62,7 +62,7 @@ docker images
 Run docker images 
 
 ''''
-docker run -p 5000:5000 -e PORT:5000  85a3c8443fd3
+docker run -p 5000:5000 -e PORT:5000  <imageid>
 
 """"
 
