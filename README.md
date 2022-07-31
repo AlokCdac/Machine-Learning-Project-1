@@ -40,11 +40,11 @@ To established CI/CD pipeline
 
 '''
 
-HEROKU_EMAIL=<Your heroku Email id >
+HEROKU_EMAIL=<Your_heroku_Email_id >
 
 HEROKU_API_KEY=<API_KEY>
 
-HEROKU_APP_NAME=<Your Heroku App Name >
+HEROKU_APP_NAME=<Your_Heroku_App_Name >
 
 
 build docker image
