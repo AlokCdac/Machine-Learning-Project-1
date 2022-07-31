@@ -39,12 +39,12 @@ git push origin main
 To established CI/CD pipeline
 
 '''
-HEROKU_EMAIL=alokdwivedifgiet@gmail.com
 
-HEROKU_API_KEY=<>
+HEROKU_EMAIL=<Your heroku Email id >
 
-HEROKU_APP_NAME=my-app-project1
+HEROKU_API_KEY=<API_KEY>
 
+HEROKU_APP_NAME=<Your Heroku App Name >
 
 
 build docker image
